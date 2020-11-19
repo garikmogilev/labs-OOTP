@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOTP_LAB_3", "OOTP_LAB_3\OOTP_LAB_3.csproj", "{4033A693-B1B8-4432-835B-D02D298F4A18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4033A693-B1B8-4432-835B-D02D298F4A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4033A693-B1B8-4432-835B-D02D298F4A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4033A693-B1B8-4432-835B-D02D298F4A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4033A693-B1B8-4432-835B-D02D298F4A18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81CF973C-CA22-46A1-B1B0-1751ECC68C34}
+	EndGlobalSection
+EndGlobal

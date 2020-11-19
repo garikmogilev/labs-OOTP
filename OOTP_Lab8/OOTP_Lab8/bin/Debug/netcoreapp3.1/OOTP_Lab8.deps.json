@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OOTP_Lab8/1.0.0": {
+        "runtime": {
+          "OOTP_Lab8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOTP_Lab8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

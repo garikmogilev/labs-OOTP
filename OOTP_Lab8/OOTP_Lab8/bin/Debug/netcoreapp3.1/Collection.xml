@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<collection>
+  <object type="System.Int32">
+    <value>5</value>
+  </object>
+  <object type="System.Int32">
+    <value>45</value>
+  </object>
+  <object type="System.Int32">
+    <value>1</value>
+  </object>
+  <object type="System.Int32">
+    <value>453</value>
+  </object>
+  <object type="System.String">
+    <value>C</value>
+  </object>
+  <object type="System.String">
+    <value>#</value>
+  </object>
+  <object type="System.String">
+    <value> </value>
+  </object>
+  <object type="System.String">
+    <value> </value>
+  </object>
+  <object type="System.String">
+    <value>interesting</value>
+  </object>
+  <object type="OOTP_Lab8.Car">
+    <color>gray</color>
+    <inerierColor>white</inerierColor>
+    <mileage>100000</mileage>
+  </object>
+  <object type="OOTP_Lab8.Car">
+    <color>pink</color>
+    <inerierColor>yellow</inerierColor>
+    <mileage>22000</mileage>
+  </object>
+  <object type="OOTP_Lab8.Car">
+    <color>red</color>
+    <inerierColor>gray</inerierColor>
+    <mileage>77000</mileage>
+  </object>
+</collection>

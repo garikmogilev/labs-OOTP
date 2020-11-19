@@ -1,0 +1,13 @@
+D:\Университет\Лабараторные\JJNG\Lab_02\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.exe
+D:\Университет\Лабараторные\JJNG\Lab_02\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.deps.json
+D:\Университет\Лабараторные\JJNG\Lab_02\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.runtimeconfig.json
+D:\Университет\Лабараторные\JJNG\Lab_02\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.runtimeconfig.dev.json
+D:\Университет\Лабараторные\JJNG\Lab_02\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.dll
+D:\Университет\Лабараторные\JJNG\Lab_02\Lab_02\bin\Debug\netcoreapp3.1\Lab_02.pdb
+D:\Университет\Лабараторные\JJNG\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.csprojAssemblyReference.cache
+D:\Университет\Лабараторные\JJNG\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.AssemblyInfoInputs.cache
+D:\Университет\Лабараторные\JJNG\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.AssemblyInfo.cs
+D:\Университет\Лабараторные\JJNG\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.csproj.CoreCompileInputs.cache
+D:\Университет\Лабараторные\JJNG\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.dll
+D:\Университет\Лабараторные\JJNG\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.pdb
+D:\Университет\Лабараторные\JJNG\Lab_02\Lab_02\obj\Debug\netcoreapp3.1\Lab_02.genruntimeconfig.cache

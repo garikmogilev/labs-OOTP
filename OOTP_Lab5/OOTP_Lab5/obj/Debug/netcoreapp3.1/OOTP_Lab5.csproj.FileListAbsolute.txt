@@ -1,0 +1,13 @@
+D:\Университет\Лабараторные\ООТП\Labs\OOTP_Lab5\OOTP_Lab5\bin\Debug\netcoreapp3.1\OOTP_Lab5.exe
+D:\Университет\Лабараторные\ООТП\Labs\OOTP_Lab5\OOTP_Lab5\bin\Debug\netcoreapp3.1\OOTP_Lab5.deps.json
+D:\Университет\Лабараторные\ООТП\Labs\OOTP_Lab5\OOTP_Lab5\bin\Debug\netcoreapp3.1\OOTP_Lab5.runtimeconfig.json
+D:\Университет\Лабараторные\ООТП\Labs\OOTP_Lab5\OOTP_Lab5\bin\Debug\netcoreapp3.1\OOTP_Lab5.runtimeconfig.dev.json
+D:\Университет\Лабараторные\ООТП\Labs\OOTP_Lab5\OOTP_Lab5\bin\Debug\netcoreapp3.1\OOTP_Lab5.dll
+D:\Университет\Лабараторные\ООТП\Labs\OOTP_Lab5\OOTP_Lab5\bin\Debug\netcoreapp3.1\OOTP_Lab5.pdb
+D:\Университет\Лабараторные\ООТП\Labs\OOTP_Lab5\OOTP_Lab5\obj\Debug\netcoreapp3.1\OOTP_Lab5.csprojAssemblyReference.cache
+D:\Университет\Лабараторные\ООТП\Labs\OOTP_Lab5\OOTP_Lab5\obj\Debug\netcoreapp3.1\OOTP_Lab5.AssemblyInfoInputs.cache
+D:\Университет\Лабараторные\ООТП\Labs\OOTP_Lab5\OOTP_Lab5\obj\Debug\netcoreapp3.1\OOTP_Lab5.AssemblyInfo.cs
+D:\Университет\Лабараторные\ООТП\Labs\OOTP_Lab5\OOTP_Lab5\obj\Debug\netcoreapp3.1\OOTP_Lab5.csproj.CoreCompileInputs.cache
+D:\Университет\Лабараторные\ООТП\Labs\OOTP_Lab5\OOTP_Lab5\obj\Debug\netcoreapp3.1\OOTP_Lab5.dll
+D:\Университет\Лабараторные\ООТП\Labs\OOTP_Lab5\OOTP_Lab5\obj\Debug\netcoreapp3.1\OOTP_Lab5.pdb
+D:\Университет\Лабараторные\ООТП\Labs\OOTP_Lab5\OOTP_Lab5\obj\Debug\netcoreapp3.1\OOTP_Lab5.genruntimeconfig.cache
