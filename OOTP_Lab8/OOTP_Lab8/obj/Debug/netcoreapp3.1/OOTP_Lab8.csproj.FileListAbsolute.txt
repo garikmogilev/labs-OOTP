@@ -24,3 +24,16 @@ E:\University\Labs\OOP\Labs\OOTP_Lab8\OOTP_Lab8\obj\Debug\netcoreapp3.1\OOTP_Lab
 E:\University\Labs\OOP\Labs\OOTP_Lab8\OOTP_Lab8\obj\Debug\netcoreapp3.1\OOTP_Lab8.dll
 E:\University\Labs\OOP\Labs\OOTP_Lab8\OOTP_Lab8\obj\Debug\netcoreapp3.1\OOTP_Lab8.pdb
 E:\University\Labs\OOP\Labs\OOTP_Lab8\OOTP_Lab8\obj\Debug\netcoreapp3.1\OOTP_Lab8.genruntimeconfig.cache
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab8\OOTP_Lab8\bin\Debug\netcoreapp3.1\OOTP_Lab8.exe
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab8\OOTP_Lab8\bin\Debug\netcoreapp3.1\OOTP_Lab8.deps.json
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab8\OOTP_Lab8\bin\Debug\netcoreapp3.1\OOTP_Lab8.runtimeconfig.json
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab8\OOTP_Lab8\bin\Debug\netcoreapp3.1\OOTP_Lab8.runtimeconfig.dev.json
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab8\OOTP_Lab8\bin\Debug\netcoreapp3.1\OOTP_Lab8.dll
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab8\OOTP_Lab8\bin\Debug\netcoreapp3.1\OOTP_Lab8.pdb
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab8\OOTP_Lab8\obj\Debug\netcoreapp3.1\OOTP_Lab8.csprojAssemblyReference.cache
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab8\OOTP_Lab8\obj\Debug\netcoreapp3.1\OOTP_Lab8.AssemblyInfoInputs.cache
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab8\OOTP_Lab8\obj\Debug\netcoreapp3.1\OOTP_Lab8.AssemblyInfo.cs
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab8\OOTP_Lab8\obj\Debug\netcoreapp3.1\OOTP_Lab8.csproj.CoreCompileInputs.cache
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab8\OOTP_Lab8\obj\Debug\netcoreapp3.1\OOTP_Lab8.dll
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab8\OOTP_Lab8\obj\Debug\netcoreapp3.1\OOTP_Lab8.pdb
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab8\OOTP_Lab8\obj\Debug\netcoreapp3.1\OOTP_Lab8.genruntimeconfig.cache

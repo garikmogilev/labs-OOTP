@@ -5,25 +5,25 @@ namespace OOTP_Lab8
 {
 public class Car : IComparable<Car>
 {
-        private string color;
-        private string interier_color;
-        private int mileage;
+        private string _color;
+        private string _interierColor;
+        private int _mileage;
         private IComparable<Car> _comparableImplementation;
 
         public Car(string color = "N/A", string inerierColor = "N/A", int mileage = 0)
         {
-            this.color = color;
-            this.interier_color = inerierColor;
-            this.mileage = mileage;
+            this._color = color;
+            this._interierColor = inerierColor;
+            this._mileage = mileage;
         } 
 
         public override string ToString()
         {
             return "#------object------#\n" +
                    "Type: " + base.ToString() + 
-                   "\nColor: " + this.color + 
-                   "\nColor interier: "  + this.interier_color + 
-                   "\nMileage: "  + this.mileage +
+                   "\nColor: " + this._color + 
+                   "\nColor interier: "  + this._interierColor + 
+                   "\nMileage: "  + this._mileage +
                    "\n";
         }
 
@@ -42,19 +42,24 @@ public class Car : IComparable<Car>
             return GetHashCode() == obj.GetHashCode();
         }
 
-        public string Color()
+        public string Color
         {
-            return this.color;
-        }
-        public string interierColor()
-        {
-            return this.interier_color;
+            get => _color;
+            set => _color = value;
         }
 
-        public int Mileage()
+        public string InterierColor
         {
-            return this.mileage;
+            get => _interierColor;
+            set => _interierColor = value;
         }
+
+        public int Mileage
+        {
+            get => _mileage;
+            set => _mileage = value;
+        }
+        
 }
 
   

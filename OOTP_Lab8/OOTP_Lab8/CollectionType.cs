@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using System.Xml.Linq;
 
 namespace OOTP_Lab8
@@ -26,9 +28,13 @@ namespace OOTP_Lab8
             {
                 if (item is Car)
                 {
-                    if (innerArray[i].GetHashCode() == item.GetHashCode())
+                    Car car = new Car();
+                    Car car2 = new Car();
+                    car = item as Car ;
+                    car2 = innerArray[i] as Car ;
+                    
+                    if (EqualsCar(car,car2))
                     {
-                        T temp;
                         for (int j = i; j < index; j++)
                         {
                             innerArray[j] = innerArray[j + 1];
@@ -64,63 +70,68 @@ namespace OOTP_Lab8
         void IGeneric<T>.display()
         {
             Console.WriteLine("/***************Display***************/");
-            for (int i = 0; i < index; i++)
+            for (var i = 0; i < index; i++)
             {
-                if(innerArray[i] is Car)
-                    Console.Write($"{innerArray[i].ToString()} ");
-                else
-                    Console.Write($"{innerArray[i]} ");
+                Console.Write(innerArray[i] is Car ? $"{innerArray[i].ToString()} " : $"{innerArray[i]} ");
             }
 
             Console.WriteLine();
             Console.WriteLine("/************************************/");
         }
 
-        public void writeXML()
+        public void WriteXml()
         {
-            for (int i = 0; i < index; i++)
+            for (var i = 0; i < index; i++)
             {
                 
                 if (innerArray[i] is Car)
                 {
-                    Car car =  innerArray[i] as Car;
-                    XElement temp = new XElement("object");
-                    XAttribute carNameAttr = new XAttribute("type", typeof(T));
-                    XElement carColor = new XElement("color", car.Color());
-                    XElement colorElem = new XElement("inerierColor", car.interierColor());
-                    XElement mileageElem = new XElement("mileage", car.Mileage().ToString());
+                    var car =  innerArray[i] as Car;
+                    var temp = new XElement("object");
+                    var carNameAttr = new XAttribute("type", typeof(T));
+                        
+                    if (car != null)
+                    {
+                        var carColor = new XElement("color", car.Color);
+                        var colorElem = new XElement("inerierColor", car.InterierColor);
+                        var mileageElem = new XElement("mileage", car.Mileage.ToString());
 
-                    temp.Add(carNameAttr);
-                    temp.Add(carColor);
-                    temp.Add(colorElem);
-                    temp.Add(mileageElem);
+                        temp.Add(carNameAttr);
+                        temp.Add(carColor);
+                        temp.Add(colorElem);
+                        temp.Add(mileageElem);
+                    }
+
                     list.Add(temp);
                 }
                 else 
                 {
-                    XElement temp = new XElement("object");
-                    XAttribute type = new XAttribute("type", typeof(T));
-                    XElement value = new XElement("value",innerArray[i]);
+                    var temp = new XElement("object");
+                    var type = new XAttribute("type", typeof(T));
+                    var value = new XElement("value",innerArray[i]);
                     temp.Add(type);
                     temp.Add(value);
                     list.Add(temp);
                 }
             }
-            foreach (XElement temp in list)
+            foreach (var temp in list)
             {
                 Program.collection.Add(temp);
             }
             xDoc.Add(Program.collection);
             
         }
-
-        public void readXML()
-        {
-           
-        }
         public void Save()
         {
             xDoc.Save("Collection.xml");
         }
+
+        private bool EqualsCar(Car temp, Car temp2)
+        {
+            return temp.Color == temp2.Color
+                   && temp.InterierColor == temp2.InterierColor
+                   && temp.Mileage == temp2.Mileage;
+        }
+
     }
 }

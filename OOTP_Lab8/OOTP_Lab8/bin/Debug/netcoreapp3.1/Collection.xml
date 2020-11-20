@@ -13,24 +13,13 @@
     <value>453</value>
   </object>
   <object type="System.String">
-    <value>C</value>
+    <value>C#</value>
   </object>
   <object type="System.String">
-    <value>#</value>
-  </object>
-  <object type="System.String">
-    <value> </value>
-  </object>
-  <object type="System.String">
-    <value> </value>
+    <value>this is</value>
   </object>
   <object type="System.String">
     <value>interesting</value>
-  </object>
-  <object type="OOTP_Lab8.Car">
-    <color>gray</color>
-    <inerierColor>white</inerierColor>
-    <mileage>100000</mileage>
   </object>
   <object type="OOTP_Lab8.Car">
     <color>pink</color>

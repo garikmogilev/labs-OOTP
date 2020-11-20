@@ -1,30 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Университет\\Лабараторные\\ООТП\\Labs\\OOTP_Lab4\\OOTP_Lab4\\OOTP_Lab4.csproj": {}
+    "D:\\University\\Labs\\OOP\\labs-OOTP\\OOTP_Lab4\\OOTP_Lab4\\OOTP_Lab4.csproj": {}
   },
   "projects": {
-    "D:\\Университет\\Лабараторные\\ООТП\\Labs\\OOTP_Lab4\\OOTP_Lab4\\OOTP_Lab4.csproj": {
+    "D:\\University\\Labs\\OOP\\labs-OOTP\\OOTP_Lab4\\OOTP_Lab4\\OOTP_Lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Университет\\Лабараторные\\ООТП\\Labs\\OOTP_Lab4\\OOTP_Lab4\\OOTP_Lab4.csproj",
+        "projectUniqueName": "D:\\University\\Labs\\OOP\\labs-OOTP\\OOTP_Lab4\\OOTP_Lab4\\OOTP_Lab4.csproj",
         "projectName": "OOTP_Lab4",
-        "projectPath": "D:\\Университет\\Лабараторные\\ООТП\\Labs\\OOTP_Lab4\\OOTP_Lab4\\OOTP_Lab4.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Университет\\Лабараторные\\ООТП\\Labs\\OOTP_Lab4\\OOTP_Lab4\\obj\\",
+        "projectPath": "D:\\University\\Labs\\OOP\\labs-OOTP\\OOTP_Lab4\\OOTP_Lab4\\OOTP_Lab4.csproj",
+        "packagesPath": "C:\\Users\\garik\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\Labs\\OOP\\labs-OOTP\\OOTP_Lab4\\OOTP_Lab4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\garik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -36,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -51,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

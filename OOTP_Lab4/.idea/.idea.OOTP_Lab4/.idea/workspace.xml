@@ -46,7 +46,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/OOTP_Lab4/Data.cs" root0="FORCE_HIGHLIGHTING" />
@@ -117,6 +117,7 @@
       <workItem from="1603565657147" duration="712000" />
       <workItem from="1603831729763" duration="1927000" />
       <workItem from="1605202565744" duration="2803000" />
+      <workItem from="1605830532437" duration="43000" />
     </task>
     <servers />
   </component>

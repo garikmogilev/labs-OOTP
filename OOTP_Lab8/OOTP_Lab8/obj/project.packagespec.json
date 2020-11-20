@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "E:\\University\\Labs\\OOP\\Labs\\OOTP_Lab8\\OOTP_Lab8\\OOTP_Lab8.csproj",
+    "projectUniqueName": "D:\\University\\Labs\\OOP\\labs-OOTP\\OOTP_Lab8\\OOTP_Lab8\\OOTP_Lab8.csproj",
     "projectName": "OOTP_Lab8",
-    "projectPath": "E:\\University\\Labs\\OOP\\Labs\\OOTP_Lab8\\OOTP_Lab8\\OOTP_Lab8.csproj",
-    "outputPath": "E:\\University\\Labs\\OOP\\Labs\\OOTP_Lab8\\OOTP_Lab8\\obj\\",
+    "projectPath": "D:\\University\\Labs\\OOP\\labs-OOTP\\OOTP_Lab8\\OOTP_Lab8\\OOTP_Lab8.csproj",
+    "outputPath": "D:\\University\\Labs\\OOP\\labs-OOTP\\OOTP_Lab8\\OOTP_Lab8\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
