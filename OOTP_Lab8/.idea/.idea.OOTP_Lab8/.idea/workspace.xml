@@ -56,11 +56,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/OOTP_Lab8/Car.cs" />
-        <option value="$PROJECT_DIR$/OOTP_Lab8/Program.cs" />
-        <option value="$PROJECT_DIR$/OOTP_Lab8/bin/Debug/netcoreapp3.1/Collection.xml" />
         <option value="$PROJECT_DIR$/OOTP_Lab8/IGeneric.cs" />
+        <option value="$PROJECT_DIR$/OOTP_Lab8/Car.cs" />
+        <option value="$PROJECT_DIR$/OOTP_Lab8/bin/Debug/netcoreapp3.1/Collection.xml" />
         <option value="$PROJECT_DIR$/OOTP_Lab8/CollectionType.cs" />
+        <option value="$PROJECT_DIR$/OOTP_Lab8/Program.cs" />
       </list>
     </option>
   </component>
@@ -118,6 +118,7 @@
       <workItem from="1605548385389" duration="864000" />
       <workItem from="1605660731212" duration="880000" />
       <workItem from="1605814896610" duration="12270000" />
+      <workItem from="1605869913812" duration="4998000" />
     </task>
     <servers />
   </component>
@@ -146,22 +147,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="450" height="464" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1605832070043" />
-    <state width="1557" height="303" key="GridCell.Tab.0.bottom" timestamp="1605832366862">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1605871051853">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="303" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.0.center" timestamp="1605832366861">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605871051853" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1605871051853">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="303" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605832366861" />
-    <state width="1557" height="303" key="GridCell.Tab.0.left" timestamp="1605832366861">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605871051853" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1605871051853">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="303" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605832366861" />
-    <state width="1557" height="303" key="GridCell.Tab.0.right" timestamp="1605832366861">
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605871051853" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1605871051853">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="303" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605832366861" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605871051853" />
     <state width="1557" height="303" key="GridCell.Tab.1.bottom" timestamp="1605832366862">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -238,24 +239,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1605221058154" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/OOTP_Lab8/Program.cs</url>
-          <line>59</line>
-          <properties documentPath="D:\University\Labs\OOP\labs-OOTP\OOTP_Lab8\OOTP_Lab8\Program.cs" initialLine="59">
-            <startOffsets>
-              <option value="2605" />
-            </startOffsets>
-            <endOffsets>
-              <option value="2650" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="456" y="195" key="run.anything.popup" timestamp="1605870901452">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1605870901452" />
   </component>
 </project>

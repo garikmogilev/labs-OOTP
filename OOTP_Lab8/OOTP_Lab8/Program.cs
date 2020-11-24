@@ -6,8 +6,7 @@ namespace OOTP_Lab8
     class Program
     {
         public static XElement collection = new XElement("collection");
-        public CollectionType<string> remoteXML = new CollectionType<string>(); 
-        
+
         static void Main(string[] args)
         {
             try
@@ -15,7 +14,12 @@ namespace OOTP_Lab8
                 CollectionType<int> intCollection = new CollectionType<int>();
                 CollectionType<string> strCollection = new CollectionType<string>();
                 CollectionType<Car> carCollection = new CollectionType<Car>();
-                Car car1 = new Car("gray", "white", 100000);
+                Car car1 = new Car("gray", "white", 1330000);
+                    //Car car2 = new Car("white", "gray", 2000);
+                //Car car3 = new Car("red", "black", 12000);
+                ((IGeneric<Car>) carCollection).add(car1);
+                //((IGeneric<Car>) carCollection).add(car2);
+                //((IGeneric<Car>) carCollection).add(car3);
 
                 ((IGeneric<int>) intCollection).add(2);
                 ((IGeneric<int>) intCollection).add(22);
@@ -57,9 +61,8 @@ namespace OOTP_Lab8
                 ((IGeneric<string>) strCollection).remove("Learning ");
                 ((IGeneric<string>) strCollection).display();
 
+                ((IGeneric<Car>) carCollection).display();
                 ((IGeneric<Car>) carCollection).remove(car1);
-
-
                 ((IGeneric<Car>) carCollection).display();
 
                 intCollection.WriteXml();
@@ -68,7 +71,7 @@ namespace OOTP_Lab8
                 intCollection.Save();
 
 
-                ((IGeneric<Car>) carCollection).display();
+
             }
             catch (Exception e)
             {

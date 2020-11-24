@@ -15,8 +15,8 @@ public class Car : IComparable<Car>
             this._color = color;
             this._interierColor = inerierColor;
             this._mileage = mileage;
-        } 
-
+        }
+        
         public override string ToString()
         {
             return "#------object------#\n" +
@@ -26,7 +26,6 @@ public class Car : IComparable<Car>
                    "\nMileage: "  + this._mileage +
                    "\n";
         }
-
         public override int GetHashCode()
         {
             return base.GetHashCode();

@@ -22,13 +22,13 @@
     <value>interesting</value>
   </object>
   <object type="OOTP_Lab8.Car">
-    <color>pink</color>
-    <inerierColor>yellow</inerierColor>
-    <mileage>22000</mileage>
+    <color>white</color>
+    <inerierColor>gray</inerierColor>
+    <mileage>2000</mileage>
   </object>
   <object type="OOTP_Lab8.Car">
     <color>red</color>
-    <inerierColor>gray</inerierColor>
-    <mileage>77000</mileage>
+    <inerierColor>black</inerierColor>
+    <mileage>12000</mileage>
   </object>
 </collection>
