@@ -9,56 +9,34 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69523765-03f1-461e-aa3c-acfe96080870" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab4/OOTP_Lab4/Data.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab4/OOTP_Lab4/List.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab4/OOTP_Lab4/Owner.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab4/OOTP_Lab4/StatisticOperation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/Engine.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/Interfaces.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/Printing.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/classAbstract.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab6/OOTP_Lab6/CarExeption.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab6/OOTP_Lab6/Driver.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab6/OOTP_Lab6/forThrow.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab8/OOTP_Lab8/CollectionType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab8/OOTP_Lab8/IGeneric.cs" afterDir="false" />
-    </list>
+    <list default="true" id="69523765-03f1-461e-aa3c-acfe96080870" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A9C37662-579A-499A-A4DE-B3C85349280D/1EE/GCHandle.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A9C37662-579A-499A-A4DE-B3C85349280D/2E/Object.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A9C37662-579A-499A-A4DE-B3C85349280D/3DC/List.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0E38834A-9E31-4B3E-B0E1-04AF7B59AFF9/5/Binder.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0E38834A-9E31-4B3E-B0E1-04AF7B59AFF9/7/BinderHelper.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0E38834A-9E31-4B3E-B0E1-04AF7B59AFF9/8/CSharpArgumentInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A9C37662-579A-499A-A4DE-B3C85349280D/8E/IntPtr.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0E38834A-9E31-4B3E-B0E1-04AF7B59AFF9/F/CSharpInvokeMemberBinder.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A9C37662-579A-499A-A4DE-B3C85349280D/30/RuntimeType.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A9C37662-579A-499A-A4DE-B3C85349280D/3F0/Unsafe.cs" root0="SKIP_HIGHLIGHTING" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -145,6 +123,8 @@
       <workItem from="1604875143586" duration="679000" />
       <workItem from="1604933639033" duration="15000" />
       <workItem from="1605225021004" duration="33000" />
+      <workItem from="1607133220103" duration="87000" />
+      <workItem from="1607688814108" duration="521000" />
     </task>
     <servers />
   </component>
@@ -161,6 +141,13 @@
             <State>
               <option name="FILTERS">
                 <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
                   <entry key="text">
                     <value>
                       <list>
@@ -278,6 +265,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1604056549994" />
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607133301878">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1607133301878" />
     <state x="198" y="199" key="run.anything.popup" timestamp="1604441080086">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

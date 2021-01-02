@@ -1,0 +1,6 @@
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab12\OOTP_Lab12\bin\Debug\OOTP_Lab12.exe
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab12\OOTP_Lab12\bin\Debug\OOTP_Lab12.pdb
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab12\OOTP_Lab12\obj\Debug\OOTP_Lab12.csprojAssemblyReference.cache
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab12\OOTP_Lab12\obj\Debug\OOTP_Lab12.csproj.CoreCompileInputs.cache
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab12\OOTP_Lab12\obj\Debug\OOTP_Lab12.exe
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab12\OOTP_Lab12\obj\Debug\OOTP_Lab12.pdb

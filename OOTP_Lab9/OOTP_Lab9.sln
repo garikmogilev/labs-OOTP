@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOTP_Lab9", "OOTP_Lab9\OOTP_Lab9.csproj", "{A0CAA211-DA56-4B2E-948D-919531D61B38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOTP_Lab10", "OOTP_Lab10\OOTP_Lab10.csproj", "{94265C55-341B-42B6-A897-0C29186A14EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A0CAA211-DA56-4B2E-948D-919531D61B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0CAA211-DA56-4B2E-948D-919531D61B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0CAA211-DA56-4B2E-948D-919531D61B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0CAA211-DA56-4B2E-948D-919531D61B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94265C55-341B-42B6-A897-0C29186A14EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94265C55-341B-42B6-A897-0C29186A14EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94265C55-341B-42B6-A897-0C29186A14EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94265C55-341B-42B6-A897-0C29186A14EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Университет\\Лабараторные\\ООТП\\Labs\\OOTP_Lab5\\OOTP_Lab5\\OOTP_Lab5.csproj": {}
+    "D:\\University\\Labs\\OOP\\labs-OOTP\\OOTP_Lab5\\OOTP_Lab5\\OOTP_Lab5.csproj": {}
   },
   "projects": {
-    "D:\\Университет\\Лабараторные\\ООТП\\Labs\\OOTP_Lab5\\OOTP_Lab5\\OOTP_Lab5.csproj": {
+    "D:\\University\\Labs\\OOP\\labs-OOTP\\OOTP_Lab5\\OOTP_Lab5\\OOTP_Lab5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Университет\\Лабараторные\\ООТП\\Labs\\OOTP_Lab5\\OOTP_Lab5\\OOTP_Lab5.csproj",
+        "projectUniqueName": "D:\\University\\Labs\\OOP\\labs-OOTP\\OOTP_Lab5\\OOTP_Lab5\\OOTP_Lab5.csproj",
         "projectName": "OOTP_Lab5",
-        "projectPath": "D:\\Университет\\Лабараторные\\ООТП\\Labs\\OOTP_Lab5\\OOTP_Lab5\\OOTP_Lab5.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Университет\\Лабараторные\\ООТП\\Labs\\OOTP_Lab5\\OOTP_Lab5\\obj\\",
+        "projectPath": "D:\\University\\Labs\\OOP\\labs-OOTP\\OOTP_Lab5\\OOTP_Lab5\\OOTP_Lab5.csproj",
+        "packagesPath": "C:\\Users\\Skvortsoff\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\Labs\\OOP\\labs-OOTP\\OOTP_Lab5\\OOTP_Lab5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Skvortsoff\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -51,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Skvortsoff\\.dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
