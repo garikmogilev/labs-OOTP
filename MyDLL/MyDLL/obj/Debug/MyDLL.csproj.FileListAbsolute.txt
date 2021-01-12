@@ -1,0 +1,6 @@
+D:\University\Labs\OOP\labs-OOTP\MyDLL\MyDLL\obj\Debug\MyDLL.csprojAssemblyReference.cache
+D:\University\Labs\OOP\labs-OOTP\MyDLL\MyDLL\obj\Debug\MyDLL.csproj.CoreCompileInputs.cache
+D:\University\Labs\OOP\labs-OOTP\MyDLL\MyDLL\bin\Debug\MyDLL.pdb
+D:\University\Labs\OOP\labs-OOTP\MyDLL\MyDLL\obj\Debug\MyDLL.pdb
+D:\University\Labs\OOP\labs-OOTP\MyDLL\MyDLL\bin\Debug\MyDLL.dll
+D:\University\Labs\OOP\labs-OOTP\MyDLL\MyDLL\obj\Debug\MyDLL.dll

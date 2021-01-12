@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Skvortsoff\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Skvortsoff\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_OOTP_Lab14.-1208774429.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Skvortsoff\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Skvortsoff\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_OOTP_Lab14.-1208774429.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Skvortsoff\AppData\Roaming\JetBrains\Rider2020.3\scratches" t="IncludeRecursive" />
     <e p="D:\University\Labs\OOP\labs-OOTP\OOTP_Lab14" t="IncludeFlat">
       <e p="OOTP_Lab14" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Engine.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="OOTP_Lab14.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
+        <e p="Train.cs" t="Include" />
       </e>
       <e p="OOTP_Lab14.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

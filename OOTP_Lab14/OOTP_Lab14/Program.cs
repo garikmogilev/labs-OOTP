@@ -1,8 +1,13 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
+using System.Linq;
+using System.Xml.Linq;
+using System.Runtime.Serialization;
 
 using System.Runtime.Serialization.Formatters.Binary;
-
+using System.Runtime.Serialization.Formatters.Soap;
+using System.Runtime.Serialization.Json;
 using System.Xml.Serialization;
 using System.Xml;
 
@@ -12,157 +17,169 @@ namespace Serialization
     {
         static void Main(string[] args)
         {
-            Technic tech = new Technic("Comp", "Компьютер");
-            Technic tech1 = new Technic("Pad", "Планшет");
-            Technic tech2 = new Technic("Print", "Принтер");
-            Technic[] technica = new Technic[] { tech, tech1, tech2 };
+            Train train1 = new Train("gray", "yellow", 5000, "diesel");
+            Train train2 = new Train("blue", "green", 5000, "diesel");
+            Train train3 = new Train("grey", "red", 5000, "diesel");
+            Train train4 = new Train("pink", "black", 5000, "diesel");
+            Train train5 = new Train("black", "violet", 5000, "diesel");
 
-            Console.WriteLine($"{tech.TypePro }--{tech.nameProduct}");
+            Engine engine = new Engine(5000, "petroil");
+            Array trains = new[] {train1, train2, train3, train4, train5};
+            
+            //******** Task first ********// 
+            // Binary mode
+            string FileName = "data.dat";
+            BinaryFormatter bin = new BinaryFormatter();
 
-            //бинарный
-            BinaryFormatter BinaryForm = new BinaryFormatter();
-            using (FileStream file = new FileStream("BinSer.dat", FileMode.OpenOrCreate)) //открывает или создает
+            using (FileStream file = new FileStream(FileName, FileMode.OpenOrCreate))
             {
-                Console.WriteLine("Бинарная сериализация");
-                BinaryForm.Serialize(file, tech); //поток сериализации и объект
-            }
-            using (FileStream file = new FileStream("BinSer.dat", FileMode.OpenOrCreate))
-            {
-                Console.WriteLine("Бинарная десериализация");
-                Technic NewTech = (Technic)BinaryForm.Deserialize(file);
-                Console.WriteLine($"{NewTech.TypePro} - {NewTech.nameProduct}");
+                bin.Serialize(file, trains);
             }
 
-            ///SOAP
-            ///
+            Console.WriteLine($"Write bin in file:{FileName}");
 
-
-            SoapFormatter format = new SoapFormatter();
-            using (FileStream file = new FileStream("SoapSer.soap", FileMode.OpenOrCreate))
+            using (FileStream file = new FileStream(FileName, FileMode.Open))
             {
-                format.Serialize(file, tech);
-
-                Console.WriteLine("Объект сериализован");
+                Train[] deserializeTrains = (Train[]) bin.Deserialize(file);
+                Console.WriteLine("Bin deserialized.");
+                foreach (var train in deserializeTrains)
+                {
+                    Console.WriteLine(
+                        $"Train color: {train?.Color}, Color interior: {train?.Interier}, Type fuel engine: {train?.Engine?.Fuel}");
+                }
+                Console.WriteLine();
             }
 
-            // десериализация
-            using (FileStream file = new FileStream("SoapSer.soap", FileMode.OpenOrCreate))
-            {
-                Technic NewTech = (Technic)format.Deserialize(file);
+            // Soap mode
+            string FileNameSoap = "data.soap";
+            SoapFormatter soap = new SoapFormatter();
 
-                Console.WriteLine("Объект десериализован");
-                Console.WriteLine($"{NewTech.TypePro} - {NewTech.nameProduct}");
-            }
-            /*JSON*/
-
-            DataContractJsonSerializer JsonForm = new DataContractJsonSerializer(typeof(Technic));
-            using (FileStream fs = new FileStream("TECH.json", FileMode.OpenOrCreate))
+            using (FileStream file = new FileStream(FileNameSoap, FileMode.OpenOrCreate))
             {
-                JsonForm.WriteObject(fs, tech1);
-                Console.WriteLine("Book serialized.");
-            }
-            using (FileStream fs = new FileStream("TECH.json", FileMode.OpenOrCreate))
-            {
-                Technic newBook = (Technic)JsonForm.ReadObject(fs);
-                Console.WriteLine("Book deserialized.");
-                Console.WriteLine(tech1.ToString());
+                soap.Serialize(file, trains);
             }
 
+            Console.WriteLine($"Write soap in file: {FileNameSoap}");
 
-            /*XML формат*/
-            XmlSerializer XmlSerializer = new XmlSerializer(typeof(Technic));
-            using (FileStream fs = new FileStream("XmlSer.xml", FileMode.Create))
+            using (FileStream file = new FileStream(FileNameSoap, FileMode.Open))
             {
-                XmlSerializer.Serialize(fs, tech);
-                Console.WriteLine("XML сериализация");
+                Train[] deserializeTrains = (Train[]) soap.Deserialize(file);
+                Console.WriteLine("Soap deserialized.");
+                foreach (var train in deserializeTrains)
+                {
+                    Console.WriteLine(
+                        $"Train color: {train?.Color}, Color interior: {train?.Interier}, Type fuel engine: {train?.Engine?.Fuel}");
+                }
+                Console.WriteLine();
             }
-            using (FileStream fs = new FileStream("XmlSer.xml", FileMode.Open))
+            // JSON mode
+            string FileNameJSON = "data.json";
+            DataContractJsonSerializer json= new DataContractJsonSerializer(typeof(Train[]));
+            using (FileStream file = new FileStream(FileNameJSON, FileMode.OpenOrCreate))
             {
-                Technic yan1 = (Technic)XmlSerializer.Deserialize(fs);
-                Console.WriteLine("XML десериализация");
+                json.WriteObject(file, trains);
+                Console.WriteLine($"Write json in file: {FileNameJSON}");
             }
-
-            /*Создайте коллекцию (массив) объектов и выполните сериализацию/десериализацию.*/
-
-            XmlSerializer XmlSerializer1 = new XmlSerializer(typeof(Technic[]));
-            using (FileStream file = new FileStream("BSerArr.dat", FileMode.OpenOrCreate))
+            using (FileStream file = new FileStream(FileNameJSON, FileMode.OpenOrCreate))
             {
-                XmlSerializer1.Serialize(file, technica);
-                Console.WriteLine("Массив Сериализзован");
+                Train[] deserializeTrains = (Train[])json.ReadObject(file);
+                Console.WriteLine("Json deserialized.");
+                foreach (var train in deserializeTrains)
+                {
+                    Console.WriteLine(
+                        $"Train color: {train?.Color}, Color interior: {train?.Interier}, Type fuel engine: {train?.Engine?.Fuel}");
+                }
+                Console.WriteLine();
             }
-            using (FileStream fs = new FileStream("BSerArr.dat", FileMode.Open))
+
+            // XML mode
+            string FileNameXML = "data.xml";
+            XmlSerializer xmlFormat = new XmlSerializer(typeof(Train[]));
+            using (Stream file = new FileStream(FileNameXML, FileMode.OpenOrCreate))
             {
-
-                Technic[] newpeople = (Technic[])XmlSerializer1.Deserialize(fs);
-                Console.WriteLine("Массив Десериализзован");
+                xmlFormat.Serialize(file, trains);
             }
+            Console.WriteLine("Write data XML-format");
+            
+            using (FileStream file = new FileStream(FileNameXML, FileMode.Open))
+            {
+                Train[] deserializeTrains = (Train[])xmlFormat.Deserialize(file);
+                Console.WriteLine("XML deserialized");
+                foreach (var train in deserializeTrains)
+                {
+                    Console.WriteLine(
+                        $"Train color: {train?.Color}, Color interior: {train?.Interier}, Type fuel engine: {train?.Engine?.Fuel}");
+                }
+                Console.WriteLine();
+            }
+            
+            //******** Task second ********// 
+            List<int> numbers = new List<int> {10, 65, 23, 445, 34};
+            
+            string fileNameXmlNumbers = "numbers.xml";
+            XmlSerializer xmlFormater = new XmlSerializer(typeof(List<int>));
+            using (Stream file = new FileStream(fileNameXmlNumbers, FileMode.OpenOrCreate))
+            {
+                xmlFormater.Serialize(file, numbers);
+            }
+            Console.WriteLine("Write data XML-format");
+            
+            using (FileStream file = new FileStream(fileNameXmlNumbers, FileMode.Open))
+            {
+                List<int> deserializeNumbers = (List<int>)xmlFormater.Deserialize(file);
+                Console.WriteLine("XML deserialized");
+                foreach (var number in numbers)
+                {
+                    Console.WriteLine($"{number.ToString()}");
+                }
+                Console.WriteLine();
+            }
+            
+            //******** Task third ********// 
+            XmlDocument XDoc = new XmlDocument();
+            XDoc.Load(FileNameXML);
+            XmlElement xRoot = XDoc.DocumentElement;
+            
+            XmlNodeList childnodes1 = xRoot.SelectNodes("*");
+            foreach (XmlNode n in childnodes1)
+                Console.WriteLine(n.OuterXml);
+            Console.WriteLine();
+            
+            XmlNodeList childnodes2 = xRoot.SelectNodes("Train/_color");
+            foreach (XmlNode n in childnodes2)
+                Console.WriteLine(n.OuterXml);
+            Console.WriteLine();
 
-            /*Используя XPath напишите два селектора для вашего XML документа.*/
+            XmlNodeList childnodes3 = xRoot.SelectNodes("Train[_color = 'black']");
+            foreach (XmlNode n in childnodes3)
+                Console.WriteLine(n.OuterXml);
+            Console.WriteLine();
+            
+            //******** Task fourth ********//
+            XDocument linqXML = new XDocument(
+                new XElement("CollectionTrains",
+                new XElement("Train",
+                    new XElement("_color","yellow"),
+                    new XElement("_interier","gray")
+                        ),
+                new XElement("Train",
+                    new XElement("_color","red"),
+                    new XElement("_interier","gray")
+                ),
+                new XElement("Train",
+                    new XElement("_color","red"),
+                    new XElement("_interier","gray")))
+                );
+            linqXML.Save("linqXML.xml");
+            
+            XDocument xdoc = XDocument.Load(@"linqXML.xml");
+            var items = from x in xdoc.Element("CollectionTrains").Elements("Train")
+                where x.Element("_color").Value == "red"
+                select x;
 
+            foreach (XElement item in items)
+                Console.WriteLine(item?.ToString());
 
-            XDocument xDocument = new XDocument();
-            XElement Technic1 = new XElement("Technica");
-            XElement name1 = new XElement("name", "Телефон");
-            XElement age1 = new XElement("age", "3");
-            Technic1.Add(name1);
-            Technic1.Add(age1);
-            XElement Technic2 = new XElement("Technica");
-            XElement name2 = new XElement("name", "Ноутбук");
-            XElement age2 = new XElement("age", "2");
-            Technic2.Add(name2);
-            Technic2.Add(age2);
-            XElement People = new XElement("Tech");
-            People.Add(Technic1);
-            People.Add(Technic2);
-            xDocument.Add(People);
-            xDocument.Save("D:/2КУРС/ООП/LABA14/ConsoleApp1/bin/Debug/XmlSerArr.xml");
-
-            /*  Используя Linq to XML(или Linq to JSON) создайте новый xml(json) -
-  документ и напишите несколько запросов.*/
-
-            XmlDocument xDoc = new XmlDocument();
-            xDoc.Load("D:/2КУРС/ООП/LABA14/ConsoleApp1/bin/Debug/XmlSerArr.xml");
-            XmlElement xRoot = xDoc.DocumentElement;
-
-            XmlNodeList childnodes = xRoot.SelectNodes("//Technica/name");
-            foreach (XmlNode n in childnodes)
-                Console.WriteLine(n.InnerText);
-
-            childnodes = xRoot.SelectNodes("//Technica/age");
-            foreach (XmlNode n in childnodes)
-                Console.WriteLine(n.InnerText);
         }
-    }
-
-    internal class XDocument
-    {
-    }
-
-    [Serializable]
-    abstract class Product///абстракный класс
-    {
-        public string nameProduct;
-    }
-
-    [Serializable]
-    public class Technic
-    {
-        public int id;
-        public string TypePro { get; set; }
-        public string nameProduct { get; set; }
-        public Technic(string TypePro, string nameProduct)
-        {
-            this.nameProduct = nameProduct;
-        }
-
-        public virtual void Write()
-        {
-            Console.WriteLine("Тип продукта " + TypePro);
-        }
-        public Technic()
-        {
-
-        }
-
     }
 }

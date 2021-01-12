@@ -15,7 +15,7 @@ namespace OOTP_Lab8
                 CollectionType<string> strCollection = new CollectionType<string>();
                 CollectionType<Car> carCollection = new CollectionType<Car>();
                 Car car1 = new Car("gray", "white", 1330000);
-                    //Car car2 = new Car("white", "gray", 2000);
+                //Car car2 = new Car("white", "gray", 2000);
                 //Car car3 = new Car("red", "black", 12000);
                 ((IGeneric<Car>) carCollection).add(car1);
                 //((IGeneric<Car>) carCollection).add(car2);

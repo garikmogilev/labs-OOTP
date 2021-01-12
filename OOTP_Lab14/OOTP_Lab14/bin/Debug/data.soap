@@ -1,0 +1,57 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<SOAP-ENC:Array SOAP-ENC:arrayType="a1:Train[5]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialization/OOTP_Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-3"/>
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+<item href="#ref-6"/>
+<item href="#ref-7"/>
+</SOAP-ENC:Array>
+<a1:Train id="ref-3" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialization/OOTP_Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_color id="ref-8">gray</_color>
+<_interier id="ref-9">yellow</_interier>
+</a1:Train>
+<a1:Train id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialization/OOTP_Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_color id="ref-10">blue</_color>
+<_interier id="ref-11">green</_interier>
+</a1:Train>
+<a1:Train id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialization/OOTP_Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_color id="ref-12">grey</_color>
+<_interier id="ref-13">red</_interier>
+</a1:Train>
+<a1:Train id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialization/OOTP_Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_color id="ref-14">pink</_color>
+<_interier id="ref-15">black</_interier>
+</a1:Train>
+<a1:Train id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialization/OOTP_Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_color href="#ref-15"/>
+<_interier id="ref-16">violet</_interier>
+</a1:Train>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+#ref-18"/>
+<_interier id="ref-20">violet</_interier>
+<_engine href="#ref-21"/>
+</a1:Train>
+<a1:Engine id="ref-10" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialization/OOTP_Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<power>5000</power>
+<fuel id="ref-22">diesel</fuel>
+</a1:Engine>
+<a1:Engine id="ref-13" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialization/OOTP_Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<power>5000</power>
+<fuel href="#ref-22"/>
+</a1:Engine>
+<a1:Engine id="ref-16" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialization/OOTP_Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<power>5000</power>
+<fuel href="#ref-22"/>
+</a1:Engine>
+<a1:Engine id="ref-19" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialization/OOTP_Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<power>5000</power>
+<fuel href="#ref-22"/>
+</a1:Engine>
+<a1:Engine id="ref-21" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Serialization/OOTP_Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<power>5000</power>
+<fuel href="#ref-22"/>
+</a1:Engine>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

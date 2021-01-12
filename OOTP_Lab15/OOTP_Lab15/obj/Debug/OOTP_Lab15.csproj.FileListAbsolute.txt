@@ -1,0 +1,14 @@
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab15\OOTP_Lab15\obj\Debug\OOTP_Lab15.csprojAssemblyReference.cache
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab15\OOTP_Lab15\obj\Debug\OOTP_Lab15.csproj.CoreCompileInputs.cache
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab15\OOTP_Lab15\bin\Debug\OOTP_Lab15.exe
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab15\OOTP_Lab15\bin\Debug\OOTP_Lab15.pdb
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab15\OOTP_Lab15\obj\Debug\OOTP_Lab15.exe
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab15\OOTP_Lab15\obj\Debug\OOTP_Lab15.pdb
+E:\OOTP_Lab15\OOTP_Lab15\bin\Debug\OOTP_Lab15.exe
+E:\OOTP_Lab15\OOTP_Lab15\bin\Debug\OOTP_Lab15.pdb
+E:\OOTP_Lab15\OOTP_Lab15\obj\Debug\OOTP_Lab15.csprojAssemblyReference.cache
+E:\OOTP_Lab15\OOTP_Lab15\obj\Debug\OOTP_Lab15.csproj.CoreCompileInputs.cache
+E:\OOTP_Lab15\OOTP_Lab15\obj\Debug\OOTP_Lab15.exe
+E:\OOTP_Lab15\OOTP_Lab15\obj\Debug\OOTP_Lab15.pdb
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab15\OOTP_Lab15\bin\Debug\MyDLL.dll
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab15\OOTP_Lab15\obj\Debug\OOTP_Lab15.csproj.CopyComplete

@@ -306,3 +306,29 @@ Count files 5
 Date creation 24.12.2020 2:41:54
 List parrents dir .idea
 List parrents dir OOTP_Lab13
+Time: 
+15
+44
+Free space your in hards:
+C:\ - 30342787072 bytes
+D:\ - 84933914624 bytes
+E:\ - 0 bytes
+File system:
+C:\ - type format NTFS
+D:\ - type format NTFS
+E:\ - type format UDF
+Label disks:
+C:\ - label  - total size 119195860992
+D:\ - label  - total size 500104687616
+E:\ - label Microsoft Office 2016-2019 - total size 4215144448
+..//..//Log.cs
+Full path file: 
+D:\University\Labs\OOP\labs-OOTP\OOTP_Lab13\OOTP_Lab13
+Log.cs - .cs - 1605
+Data last modified: 24.12.2020 2:44:54
+Count directories 3
+Count files 5
+Date creation 24.12.2020 2:41:54
+List parrents dir .idea
+List parrents dir .vs
+List parrents dir OOTP_Lab13

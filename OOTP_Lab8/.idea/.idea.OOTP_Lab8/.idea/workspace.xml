@@ -13,34 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80ef7d5c-39e2-486a-bd24-5677fb8a9d7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab4/OOTP_Lab4/Data.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab4/OOTP_Lab4/List.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab4/OOTP_Lab4/Owner.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab4/OOTP_Lab4/StatisticOperation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/Engine.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/Interfaces.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/Printing.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/classAbstract.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab6/OOTP_Lab6/CarExeption.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab6/OOTP_Lab6/Driver.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab6/OOTP_Lab6/forThrow.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab8/Car.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab8/CollectionType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab8/IGeneric.cs" afterDir="false" />
-    </list>
+    <list default="true" id="80ef7d5c-39e2-486a-bd24-5677fb8a9d7c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,20 +22,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A9C37662-579A-499A-A4DE-B3C85349280D/2E/Object.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6F92722B-2313-47E7-BD26-4207D053C3E5/15/XName.cs" root0="SKIP_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/OOTP_Lab8/IGeneric.cs" />
-        <option value="$PROJECT_DIR$/OOTP_Lab8/Car.cs" />
-        <option value="$PROJECT_DIR$/OOTP_Lab8/bin/Debug/netcoreapp3.1/Collection.xml" />
-        <option value="$PROJECT_DIR$/OOTP_Lab8/CollectionType.cs" />
-        <option value="$PROJECT_DIR$/OOTP_Lab8/Program.cs" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/OOTP_Lab8/Program.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1kCRhbHuN5Y7F90JNPmaDts0uI6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -74,6 +37,7 @@
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35058978" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30013105" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -120,6 +84,7 @@
       <workItem from="1605814896610" duration="12270000" />
       <workItem from="1605869913812" duration="4998000" />
       <workItem from="1606507450467" duration="97000" />
+      <workItem from="1609802215559" duration="208000" />
     </task>
     <servers />
   </component>
@@ -133,7 +98,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -142,107 +119,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="450" height="464" key="DebuggerActiveHint" timestamp="1605832070043">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="450" height="464" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1605832070043" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1605871051853">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605871051853" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1605871051853">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605871051853" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1605871051853">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605871051853" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1605871051853">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605871051853" />
-    <state width="1557" height="303" key="GridCell.Tab.1.bottom" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.1.center" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.1.left" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.1.right" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.2.bottom" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.2.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.2.center" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.2.center/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.2.left" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.2.left/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.2.right" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.2.right/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.3.bottom" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.3.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.3.center" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.3.center/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.3.left" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.3.left/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.3.right" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.3.right/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.4.bottom" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.4.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.4.center" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.4.center/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.4.left" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.4.left/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state width="1557" height="303" key="GridCell.Tab.4.right" timestamp="1605832366862">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="303" key="GridCell.Tab.4.right/0.0.1600.860@0.0.1600.860" timestamp="1605832366862" />
-    <state x="573" y="131" key="RiderGenerateDialog" timestamp="1605818219814">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="573" y="131" key="RiderGenerateDialog/0.0.1600.860@0.0.1600.860" timestamp="1605818219814" />
-    <state x="301" y="75" key="SettingsEditor" timestamp="1605818462368">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1605818462368" />
-    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605221058154">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1605221058154" />
-    <state x="456" y="195" key="run.anything.popup" timestamp="1605870901452">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1605870901452" />
   </component>
 </project>

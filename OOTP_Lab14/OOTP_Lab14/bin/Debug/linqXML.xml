@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CollectionTrains>
+  <Train>
+    <_color>yellow</_color>
+    <_interier>gray</_interier>
+  </Train>
+  <Train>
+    <_color>red</_color>
+    <_interier>gray</_interier>
+  </Train>
+  <Train>
+    <_color>red</_color>
+    <_interier>gray</_interier>
+  </Train>
+</CollectionTrains>

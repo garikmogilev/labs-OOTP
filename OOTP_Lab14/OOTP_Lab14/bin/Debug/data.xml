@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfTrain xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Train>
+    <_color>gray</_color>
+    <_interier>yellow</_interier>
+  </Train>
+  <Train>
+    <_color>blue</_color>
+    <_interier>green</_interier>
+  </Train>
+  <Train>
+    <_color>grey</_color>
+    <_interier>red</_interier>
+  </Train>
+  <Train>
+    <_color>pink</_color>
+    <_interier>black</_interier>
+  </Train>
+  <Train>
+    <_color>black</_color>
+    <_interier>violet</_interier>
+  </Train>
+</ArrayOfTrain>
