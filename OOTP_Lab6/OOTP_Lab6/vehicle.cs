@@ -11,7 +11,7 @@ namespace OOTP_Lab6
        
         public void Add(Car car)
         {
-            this.cars.Add(car);
+            cars.Add(car);
         }
         public void Remove(Car car)
         {

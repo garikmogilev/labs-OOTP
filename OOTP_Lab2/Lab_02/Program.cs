@@ -258,7 +258,7 @@ namespace Lab_02
             Console.WriteLine(turple1.ToString());
             Console.WriteLine($"item1 = { turple1.Item1} | item3 =  {turple1.Item3} | item4 =  {turple1.Item4}");
 
-            var (_, _, var1, _, var2) = (11,22,"sdf",3,"ABS");
+            var(_, _, var1, _, var2) = (11,22,"sdf",3,"ABS");
 
             var (item1, item2, item3, item4, item5) = turple4;
 
@@ -272,8 +272,7 @@ namespace Lab_02
                 Console.WriteLine("turple1 != turple4");
 
             /*** 5 FUNCTION LOCAL ***/
-            (int, int, int, char) vls = LocalFunction(new int[] { 1, 4, 5, 2, 2 }, "name");
-
+            (int, int, int, char) vls = LocalFunction(new int[] { 1, 4, 5, 2, 2 }, "name"
             Console.WriteLine(vls.ToString());
             /*** 6 checked/unchecked ***/
             fuct1();

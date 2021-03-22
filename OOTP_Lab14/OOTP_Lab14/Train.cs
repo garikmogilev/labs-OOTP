@@ -1,12 +1,16 @@
 ﻿using System;
+using System.Runtime.Serialization;
 using System.Xml.Serialization;
 
 namespace Serialization
 {
     [Serializable]
+    [DataContract]
     public class Train 
     {
+        [DataMember]
         public string _color;
+        [DataMember]
         public string _interier;
         [NonSerialized]
         private Engine _engine;

@@ -1,0 +1,6 @@
+D:\University\Labs\OOP\labs-OOTP\tetst\tetst\bin\Debug\tetst.exe
+D:\University\Labs\OOP\labs-OOTP\tetst\tetst\bin\Debug\tetst.pdb
+D:\University\Labs\OOP\labs-OOTP\tetst\tetst\obj\Debug\tetst.csprojAssemblyReference.cache
+D:\University\Labs\OOP\labs-OOTP\tetst\tetst\obj\Debug\tetst.csproj.CoreCompileInputs.cache
+D:\University\Labs\OOP\labs-OOTP\tetst\tetst\obj\Debug\tetst.exe
+D:\University\Labs\OOP\labs-OOTP\tetst\tetst\obj\Debug\tetst.pdb

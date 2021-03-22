@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.WindowsFormsApp3.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\University\Labs\OOP\labs-OOTP\WindowsFormsApp3\.idea\.idea.WindowsFormsApp3\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

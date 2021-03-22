@@ -14,31 +14,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfa718e0-be36-4a93-9d1d-5f77d39e8559" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab4/Data.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab4/List.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab4/Owner.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOTP_Lab4/StatisticOperation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/Engine.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/Interfaces.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/Printing.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/bin/Debug/netcoreapp3.1/OOTP_Lab5.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/classAbstract.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab5/OOTP_Lab5/obj/Debug/netcoreapp3.1/OOTP_Lab5.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab6/OOTP_Lab6/CarExeption.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab6/OOTP_Lab6/Driver.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab6/OOTP_Lab6/forThrow.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab8/OOTP_Lab8/CollectionType.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOTP_Lab8/OOTP_Lab8/IGeneric.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOTP_Lab14/.idea/.idea.OOTP_Lab14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOTP_Lab14/.idea/.idea.OOTP_Lab14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOTP_Lab14/OOTP_Lab14/Train.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOTP_Lab14/OOTP_Lab14/Train.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOTP_Lab14/OOTP_Lab14/bin/Debug/OOTP_Lab14.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../OOTP_Lab14/OOTP_Lab14/bin/Debug/OOTP_Lab14.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOTP_Lab14/OOTP_Lab14/bin/Debug/OOTP_Lab14.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOTP_Lab14/OOTP_Lab14/bin/Debug/OOTP_Lab14.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOTP_Lab14/OOTP_Lab14/obj/Debug/OOTP_Lab14.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../OOTP_Lab14/OOTP_Lab14/obj/Debug/OOTP_Lab14.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOTP_Lab14/OOTP_Lab14/obj/Debug/OOTP_Lab14.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOTP_Lab14/OOTP_Lab14/obj/Debug/OOTP_Lab14.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOTP_Lab15/OOTP_Lab15/bin/Debug/OOTP_Lab15.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../OOTP_Lab15/OOTP_Lab15/bin/Debug/OOTP_Lab15.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOTP_Lab15/OOTP_Lab15/bin/Debug/OOTP_Lab15.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOTP_Lab15/OOTP_Lab15/bin/Debug/OOTP_Lab15.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOTP_Lab15/OOTP_Lab15/bin/Debug/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../OOTP_Lab15/OOTP_Lab15/bin/Debug/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOTP_Lab15/OOTP_Lab15/obj/Debug/OOTP_Lab15.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../OOTP_Lab15/OOTP_Lab15/obj/Debug/OOTP_Lab15.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOTP_Lab15/OOTP_Lab15/obj/Debug/OOTP_Lab15.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../OOTP_Lab15/OOTP_Lab15/obj/Debug/OOTP_Lab15.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOTP_Lab15/OOTP_Lab15/obj/Debug/OOTP_Lab15.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OOTP_Lab15/OOTP_Lab15/obj/Debug/OOTP_Lab15.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOTP_Lab2/Lab_02/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OOTP_Lab2/Lab_02/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OOTP_Lab4/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOTP_Lab4/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OOTP_Lab4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOTP_Lab4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OOTP_Lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOTP_Lab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOTP_Lab4/obj/Debug/netcoreapp3.1/OOTP_Lab4.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOTP_Lab4/obj/Debug/netcoreapp3.1/OOTP_Lab4.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOTP_Lab4/obj/Debug/netcoreapp3.1/OOTP_Lab4.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOTP_Lab4/obj/Debug/netcoreapp3.1/OOTP_Lab4.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOTP_Lab4/obj/OOTP_Lab4.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOTP_Lab4/obj/OOTP_Lab4.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOTP_Lab4/obj/OOTP_Lab4.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OOTP_Lab4/obj/OOTP_Lab4.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOTP_Lab4/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOTP_Lab4/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOTP_Lab4/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OOTP_Lab4/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOTP_Lab4/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOTP_Lab4/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOTP_Lab4/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OOTP_Lab4/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,19 +50,6 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/OOTP_Lab4/Data.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/../OOTP_LAB_3/OOTP_LAB_3/Program.cs" />
-        <option value="$PROJECT_DIR$/OOTP_Lab4/Owner.cs" />
-        <option value="$PROJECT_DIR$/OOTP_Lab4/Date.cs" />
-        <option value="$PROJECT_DIR$/OOTP_Lab4/Data.cs" />
-        <option value="$PROJECT_DIR$/OOTP_Lab4/List.cs" />
-        <option value="$PROJECT_DIR$/OOTP_Lab4/StatisticOperation.cs" />
-        <option value="$PROJECT_DIR$/OOTP_Lab4/Programm.cs" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectId" id="1jF2gJZ5N9BVidQMVqDQKWuslTm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -74,6 +60,7 @@
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34993446" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30013105" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -118,6 +105,7 @@
       <workItem from="1603831729763" duration="1927000" />
       <workItem from="1605202565744" duration="2803000" />
       <workItem from="1605830532437" duration="43000" />
+      <workItem from="1610794431386" duration="1227000" />
     </task>
     <servers />
   </component>

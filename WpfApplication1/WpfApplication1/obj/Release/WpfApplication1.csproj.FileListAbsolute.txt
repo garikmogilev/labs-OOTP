@@ -1,0 +1,15 @@
+D:\University\Labs\OOP\labs-OOTP\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+D:\University\Labs\OOP\labs-OOTP\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+D:\University\Labs\OOP\labs-OOTP\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+D:\University\Labs\OOP\labs-OOTP\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csprojAssemblyReference.cache
+D:\University\Labs\OOP\labs-OOTP\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+D:\University\Labs\OOP\labs-OOTP\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+D:\University\Labs\OOP\labs-OOTP\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+D:\University\Labs\OOP\labs-OOTP\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+D:\University\Labs\OOP\labs-OOTP\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+D:\University\Labs\OOP\labs-OOTP\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+D:\University\Labs\OOP\labs-OOTP\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+D:\University\Labs\OOP\labs-OOTP\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.cache
+D:\University\Labs\OOP\labs-OOTP\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.CoreCompileInputs.cache
+D:\University\Labs\OOP\labs-OOTP\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+D:\University\Labs\OOP\labs-OOTP\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb

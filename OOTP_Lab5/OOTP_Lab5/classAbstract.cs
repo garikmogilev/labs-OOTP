@@ -9,7 +9,7 @@ namespace OOTP_Lab5
 
         public virtual void setOptions(string addOptons)
         {
-            this.aditionalOptions = addOptons;
+            aditionalOptions = addOptons;
         }
         public PremiumFeatures(bool navi)
         {

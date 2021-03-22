@@ -1,0 +1,6 @@
+D:\University\Labs\OOP\labs-OOTP\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\University\Labs\OOP\labs-OOTP\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\University\Labs\OOP\labs-OOTP\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojAssemblyReference.cache
+D:\University\Labs\OOP\labs-OOTP\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+D:\University\Labs\OOP\labs-OOTP\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\University\Labs\OOP\labs-OOTP\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
